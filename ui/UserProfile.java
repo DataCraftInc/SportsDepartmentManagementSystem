@@ -21,10 +21,11 @@ public class UserProfile {
 	{
 		
 	}
-	public void cancel Changes()
+	public void cancelChanges()
 	{
 		
 	}
+	
 	
 }
 
