@@ -17,6 +17,10 @@ public class UserProfile {
 	{
 		
 	}
+	public void disableEditing()
+	{
+		
+	}
 	public void saveChanges()
 	{
 		
@@ -25,7 +29,5 @@ public class UserProfile {
 	{
 		
 	}
-	
-	
 }
 
