@@ -3,7 +3,7 @@ package ui;
 
 public class GenerateReports {
 	
-	public GenerateReports()
+	public GenerateReports() 
 	{
 		
 	}
