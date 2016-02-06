@@ -7,5 +7,10 @@ public class UserProfile {
 	{
 		 
 	}
+	
+	public void showUserProfile()
+	{
+		
+	}
 }
 
