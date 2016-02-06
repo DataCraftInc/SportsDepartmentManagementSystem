@@ -17,6 +17,14 @@ public class UserProfile {
 	{
 		
 	}
+	public void saveChanges()
+	{
+		
+	}
+	public void cancel Changes()
+	{
+		
+	}
 	
 }
 
