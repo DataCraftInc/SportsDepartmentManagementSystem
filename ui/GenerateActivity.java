@@ -5,7 +5,7 @@ public class GenerateActivity {
 	public GenerateActivity()
 	{
 		
-	}
+	} 
 
 	
 }
